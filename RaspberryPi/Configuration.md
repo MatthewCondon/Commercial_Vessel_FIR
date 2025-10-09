@@ -80,7 +80,7 @@ At this point, wait for the microSD card to be flashed with the ChartPlotter ima
 
 Now that the microSD has been been flashed with a new image, insert it into the Raspberry Pi. Then, plug the Raspberry Pi into the NMEA backbone cable. It is important that the microSD card is inserted before the Raspberry Pi receives power, as this will force the bootloader operation to begin. The Raspberry Pi will take a few minutes to complete this initial boot. 
 
-While booting earlier, we left the hostname of the Raspberry Pi at its initial setting. Additionally, we configured wireless SSID settings. Due to these settings, we will temporarily have wireless compatibility between devices on the network and the Raspberry Pi. Run the below command in Linux:
+While booting earlier, we left the hostname of the Raspberry Pi at its initial setting. Additionally, we configured wireless SSID settings. Due to these settings, we will temporarily have compatibility between devices on the network and the Raspberry Pi. Run the below command in Linux while connected via an ethernet cable:
 
 ```
 ping raspberrypi.local
