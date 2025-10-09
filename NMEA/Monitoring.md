@@ -1,5 +1,8 @@
 # Settings and Configurations
 The purpose of this section is to actively monitor live NMEA 2000 Data that is received in the form of candump frames.
+```
+  can0  09F11240   [8]  FF 69 00 FF 7F FF 7F FC
+```
 
 ## Setting the Interface
 Create the interface and set the necessary bit rate for NMEA 2000 networks. The restart occurs in the event an off-string is sent the network needs to be restarted.
