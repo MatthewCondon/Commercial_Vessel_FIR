@@ -44,4 +44,22 @@ Raspberry Pi Imager: https://www.raspberrypi.com/software/
 
 Using an adapter, insert a microSD card with at least 16 GB of storage into your computer. Open the Raspberry Pi Imager executable file in your system. Input the following options:
 
-- Operating System > Use Custom > 2023-08-04-OpenPlotter-v3-Starting-stable-64bit-img
+- Raspberry Pi Device > Raspberry PI 4
+- Operating System > Use Custom > 2023-08-04-OpenPlotter-v3-Starting-stable-64bit-img > 2023-08-04-OpenPlotter-v3-Starting-stable-64bit
+- SD Card > Entered microSD Storage
+
+*Next*
+
+*Select EDIT SETTINGS*
+
+### General
+- Set Username and Password // used for SSH access into the Raspberry Pi
+- Configure wireless LAN // used to connect to the Raspberry Pi over Wi-Fi
+
+### Services
+- Enable SSH
+- Use password authentication
+
+### Options
+- Eject media when finished
+- Enable telemetry
