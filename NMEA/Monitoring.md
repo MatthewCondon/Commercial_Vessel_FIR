@@ -8,6 +8,8 @@ sudo ip link set can0 up type can bitrate 250000 restart-ms 100
 ```
 This command has no output associated with it.
 
+## Ensure Interface is Up
+
 Now that the interface is running, it is crucial to ensure it is live before running any CAN frames through the backbone.
 ```
 ip -details link show can0
