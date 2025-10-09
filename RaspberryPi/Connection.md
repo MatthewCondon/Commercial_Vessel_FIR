@@ -14,7 +14,7 @@ sudo apt-get upgrade
 sudo reboot
 ```
 After restart, continue:
-````
+```
 sudo nano /boot/config.txt
 
 enable_uart=1
