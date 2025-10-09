@@ -11,10 +11,10 @@ When conducting our analysis of the NMEA 2000 Vessel Simulator, we used the foll
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/cb3574d2-6b94-4899-9415-9115c67e0be5" />
 </p>
 
-- Pi + Hat Case: https://copperhilltech.com/metal-enclosure-for-pican-m-and-raspberry-pi-4/
+- Pi + Hat Case: https://copperhilltech.com/pican-m-nmea-0183-nmea-2000-hat-for-raspberry-pi-with-smps/
 
 <p align="center">
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/dafb64e9-8f75-4b61-9134-bf21aa1c3a99" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7ca90574-f948-4629-9897-b083aa961b6a" />
 </p>
 
 ## Cable Management
