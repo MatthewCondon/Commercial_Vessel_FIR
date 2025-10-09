@@ -1,4 +1,4 @@
-<img width="108" height="71" alt="image" src="https://github.com/user-attachments/assets/7cfa4e5a-6292-4be5-9e15-e1dbe467ba72" />**Hardware**
+**Hardware**
 In order to conduct any analysis on the NMEA 2000 Network, it is necessary to configure a Raspberry Pi with NMEA Hat.
 
 When conducting our analysis of the NMEA 2000 Vessel Simulator, we used the following hardware:
