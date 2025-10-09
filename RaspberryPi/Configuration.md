@@ -67,3 +67,23 @@ Using an adapter, insert a microSD card with at least 16 GB of storage into your
 ### Options
 - Eject media when finished
 - Enable telemetry
+
+*Save*
+
+*Would you like to apply OS customisation settings? Yes*
+
+*All existing data on [Storage Device Name] will be erased. Are you sure you want to continue? Yes*
+
+At this point, wait for the microSD card to be flashed with the ChartPlotter image. 
+
+## Flashing the Raspberry Pi
+
+Now that the microSD has been been flashed with a new image, insert it into the Raspberry Pi. Then, plug the Raspberry Pi into the NMEA backbone cable. It is important that the microSD card is inserted before the Raspberry Pi receives power, as this will force the bootloader operation to begin. The Raspberry Pi will take a few minutes to complete this initial boot. 
+
+While booting earlier, we left the hostname of the Raspberry Pi at its initial setting. Additionally, we configured wireless SSID settings. Due to these settings, we will temporarily have wireless compatibility between devices on the network and the Raspberry Pi. Run the below command in Linux:
+
+```
+ping raspberrypi.local
+```
+
+Results showing that ICMP packets are reaching the host indicate that the Raspberry Pi has booted and is ready for use.
