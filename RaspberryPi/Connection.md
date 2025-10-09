@@ -24,7 +24,10 @@ dtoverlay=mcp2515=can0,oscillator=16000000,interrupt=25
 
 CTRL-X to Save and Exit
 ```
-Because we installed the ChartPlotter image on the Raspberry Pi, many of the tools necessary for analysis are already installed. The vast majority of NMEA 2000 analysis can be completed with the can-utils package. It includes tools such as candump, canplayer, and analyzer/candump2analyzer.
+Because we installed the ChartPlotter image on the Raspberry Pi, many of the tools necessary for analysis are easily installed and not traditionally available on normal Linux systems. The vast majority of NMEA 2000 analysis can be completed with the can-utils package. It includes tools such as candump, canplayer, and analyzer/candump2analyzer.
+```
+sudo apt-get install can-utils
+```
 
 # GUI
 info here
