@@ -36,11 +36,15 @@ The actual documentation for installation is found at the below link:
 
 https://copperhilltech.com/content/pican-m_UGB_30.pdf
 
+## Downloadable Files
+
 Download the following files:
 
 2023 OpenPlotter 64-bit Image: https://cloud.openmarine.net/s/mxrBi5K7zRj2gDq
 
 Raspberry Pi Imager: https://www.raspberrypi.com/software/
+
+## Physical Set-up
 
 Using an adapter, insert a microSD card with at least 16 GB of storage into your computer. Open the Raspberry Pi Imager executable file in your system. Input the following options:
 
