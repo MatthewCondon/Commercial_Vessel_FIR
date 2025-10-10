@@ -5,7 +5,7 @@ There are three formats for data that investigators need to work with.
 
 
 ## Raw SocketCAN
-This data is the format required to send data back onto the NMEA 2000 Network for emulation.
+This data is the format required to send data back onto the NMEA 2000 Network for emulation. This format is necessary for the ```canplayer``` tool.
 ```
 (1759499866.954945) can0 09F90B40#FFFC001B8C05FFFF
 (1759499866.959004) can0 09F11340#FF00000000FFFFFF
