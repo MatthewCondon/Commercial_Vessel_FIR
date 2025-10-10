@@ -5,6 +5,7 @@ There are three formats for data that investigators need to work with.
 
 
 ## Raw SocketCAN
+This data is the format required to send data back onto the NMEA 2000 Network for emulation.
 ```
 (1759499866.954945) can0 09F90B40#FFFC001B8C05FFFF
 (1759499866.959004) can0 09F11340#FF00000000FFFFFF
@@ -19,6 +20,7 @@ There are three formats for data that investigators need to work with.
 ```
 
 ## Compact Human-Readable
+This is the output from using the ```candump``` tool installed on the Raspberry Pi.
 ```
   can0  19FA0601   [8]  E0 0F 80 7F 17 59 17 A8
   can0  19FA0601   [8]  E1 02 00 00 8C 15 60 09
@@ -33,6 +35,7 @@ There are three formats for data that investigators need to work with.
 ```
 
 ## CSV Analyzer Format
+Using the ```candump2analyzer``` tool on the Raspberry Pi, this format decodes the hex into decimal notation for easier readability.
 ```
 2025-09-30-23:35:19.356,2,127250,64,255,8,ff,69,00,ff,7f,ff,7f,fc
 2025-09-30-23:35:19.356,5,130311,41,255,8,77,c3,ff,ff,ff,7f,ff,ff
