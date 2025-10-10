@@ -33,6 +33,7 @@ There are three formats for data that investigators need to work with.
 ```
 
 ## CSV Analyzer Format
+```
 2025-09-30-23:35:19.356,2,127250,64,255,8,ff,69,00,ff,7f,ff,7f,fc
 2025-09-30-23:35:19.356,5,130311,41,255,8,77,c3,ff,ff,ff,7f,ff,ff
 2025-09-30-23:35:19.356,2,127250,64,255,8,ff,01,f1,00,00,d7,04,fd
@@ -43,3 +44,4 @@ There are three formats for data that investigators need to work with.
 2025-09-30-23:35:19.356,3,127252,64,255,8,ff,e6,00,ff,ff,ff,ff,ff
 2025-09-30-23:35:19.356,2,127488,64,255,8,01,00,00,ff,ff,7f,ff,ff
 2025-09-30-23:35:19.356,2,130306,64,255,8,ff,f1,0c,11,0f,fa,ff,ff
+```
