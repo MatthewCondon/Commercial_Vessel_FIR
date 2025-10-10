@@ -1,4 +1,5 @@
-this pages serves as a summary of all baackgroudn knowledge necessary to understand what CAN and NMEA is
+# National Marine Electronics Association (NMEA) 0183/2000
+explanation here
 
 # Data Formats
 There are three formats for data that investigators need to work with.
