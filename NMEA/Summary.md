@@ -1,6 +1,6 @@
 this pages serves as a summary of all baackgroudn knowledge necessary to understand what CAN and NMEA is
 
-# Data Format
+# Data Formats
 There are three formats for data that investigators need to work with.
 
 
