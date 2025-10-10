@@ -104,3 +104,5 @@ http://raspberrypi.local:3000
 The webpage should show the following information:
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/4a9adec1-8460-4c73-90e9-b5fb6725e5f4" />
+
+Default credentials for the ```/admin``` page are ```admin:1234```
