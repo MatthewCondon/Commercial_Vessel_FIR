@@ -29,7 +29,7 @@ Because we installed the ChartPlotter image on the Raspberry Pi, many of the too
 sudo apt-get install can-utils
 ```
 
-# GUI
+# GUI - kind of stuck here until I get some hardware, UART 5 screw pin for the Pi. Also not sure if this will be needed if we can replay NMEA data directly on the vessel
 For enhanced FIR capabilities, we need to use a GUI provided by ChartPlotter. It will allow us to have another method off reviewing vessel data.
 
 First, ssh into the Raspberry Pi:
