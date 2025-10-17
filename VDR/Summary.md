@@ -1,1 +1,13 @@
-this pages serves as a summary of all baackgroudn knowledge necessary to understand what the VDR is
+# Voyage Data Recorder
+A Voyage Data Recorder (VDR) functions as the maritime equivalent of an aircraft’s “black box,” continuously recording critical information about a vessel’s operation and environment. It captures inputs from a wide range of onboard systems, including GPS, radar, engine performance, bridge audio, and communications data. This comprehensive recording provides an objective account of a vessel’s status and crew actions, ensuring that key details are preserved even in the event of an accident, incident, or equipment malfunction. Modern VDRs are designed to withstand extreme conditions, including fire, pressure, and impact, to protect the integrity of the stored data.
+
+The VDR operates through a combination of sensors, data acquisition units, and protective storage capsules. Data is gathered from navigational instruments and internal communications, then processed and stored on a durable medium—typically a fixed capsule and a float-free capsule that automatically deploys if the ship sinks. These systems follow the standards set by the International Maritime Organization (IMO) and the International Electrotechnical Commission (IEC) to ensure consistency and reliability across all commercial vessels. The recorded data is typically retained for at least 12 to 48 hours, depending on the system configuration, before it is overwritten by new recordings.
+
+The importance of the VDR extends far beyond post-accident investigation. By providing accurate, time-stamped information, VDR data allows investigators to reconstruct events leading up to an incident and identify both technical and human factors involved. Additionally, the data supports proactive safety management by enabling ship operators and maritime authorities to review operations, assess training effectiveness, and identify procedural weaknesses before they lead to incidents. Ultimately, the VDR serves as both a safeguard and a learning tool, reinforcing accountability and continuous improvement across the maritime industry.
+
+# National Transportation Security Board (NTSB)
+The NTSB is responsible for posting previously collected and analyzed data from maritime incidents. The link for their website can be accessed at: https://www.ntsb.gov/Pages/home.aspx
+
+Depending on what is searched, most of the results will provide a PDF with findings and overall results from the incident. Searching "VDR CSV" will yield results with real VDR data to download and analyze. 
+
+While not directly related to the scope of forensic analysis, this is a good starting point to determine what good data may look like before an apparent incident.
