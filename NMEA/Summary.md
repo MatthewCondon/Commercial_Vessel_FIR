@@ -55,3 +55,5 @@ Using the ```candump2analyzer``` tool on the Raspberry Pi, this format decodes t
 2025-09-30-23:35:19.356,2,127488,64,255,8,01,00,00,ff,ff,7f,ff,ff
 2025-09-30-23:35:19.356,2,130306,64,255,8,ff,f1,0c,11,0f,fa,ff,ff
 ```
+
+This can be exported directly for Excel for further analysis.
