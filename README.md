@@ -7,9 +7,7 @@ This repository contains:
 - Custom img File
 
 ## Set-Up
-Before beginning forensic analysis of the vessel, it is important to install the necessary tools:
-- Purchase hardware and review documentation in the Raspberry Pi directory
-- Install [Insert tools here]
+Before beginning forensic analysis of the vessel, it is important to install the necessary tools, shown in /Set_Up directory
 
 ## Flow Chart
 ![Capstone Flow Chart](https://github.com/user-attachments/assets/dd6e70ab-3165-4fe0-b34a-b5ed1b1156e4)
