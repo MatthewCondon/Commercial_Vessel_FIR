@@ -5,3 +5,11 @@ This repository contains:
 - Classifier Software Code
 - TTPs for NMEA 2000 or VDR depending on what data investigators are working with
 - Custom img File
+
+## Set-Up
+Before beginning forensic analysis of the vessel, it is important to install the necessary tools:
+- Purchase hardware and review documentation in the Raspberry Pi directory
+- Install [Insert tools here]
+
+## Flow Chart
+![Capstone Flow Chart](https://github.com/user-attachments/assets/bf69e5be-d56c-42ca-920e-bd2df1a9b307)
