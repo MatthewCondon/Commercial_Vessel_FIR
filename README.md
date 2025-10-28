@@ -12,4 +12,4 @@ Before beginning forensic analysis of the vessel, it is important to install the
 - Install [Insert tools here]
 
 ## Flow Chart
-![Capstone Flow Chart](https://github.com/user-attachments/assets/bf69e5be-d56c-42ca-920e-bd2df1a9b307)
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/6d69aa63-2011-41e6-a2de-61c7015ac145" />
