@@ -10,7 +10,7 @@ This repository contains:
 Before beginning forensic analysis of the vessel, it is important to install the necessary tools, shown in /Set_Up directory
 
 ## Flow Chart
-![Capstone Flow Chart (3)](https://github.com/user-attachments/assets/112fe4c6-cb1f-4685-849a-dfb20c418da4)
+![Capstone Flow Chart (3)](https://github.com/user-attachments/assets/6afc04dc-f46f-4404-9c0b-54c6b54d69b2)
 
 ### Data Hierarchy
 The importance of data is:
