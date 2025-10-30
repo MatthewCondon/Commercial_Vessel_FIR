@@ -8,3 +8,5 @@ The order to read through and complete the tasks in these files is:
 1. Configuration.md
 2. Connection.md
 3. LAN.md
+
+This ensures all settings are completed before analysis of NMEA data.
