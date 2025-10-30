@@ -4,7 +4,7 @@ The Raspberry Pi will serve as one of the most critical tools for conducting for
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/1afa90e1-4bd5-47fb-aa90-02482c073a65" />
 
 ## Objectives
-The order to complete these files is:
+The order to read through and complete the tasks in these files is:
 1. Configuration.md
 2. Connection.md
 3. LAN.md
