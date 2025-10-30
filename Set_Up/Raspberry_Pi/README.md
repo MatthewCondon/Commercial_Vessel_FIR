@@ -2,3 +2,8 @@
 The Raspberry Pi will serve as one of the most critical tools for conducting forensic incident response aboard a vessel. Its versatility and compact form make it ideal for deployment in complex maritime environments, where space, power, and accessibility are often limited. Acting as both a data interface and analytical platform, the Raspberry Pi can connect directly to a vessel’s network or data backbone to capture, replay, and interpret information from various maritime systems. When integrated with NMEA 2000 or other shipboard communication standards, it can receive and process live or recorded signals to reconstruct system behavior before, during, and after an incident. This functionality allows investigators to validate sensor readings, detect anomalies, and verify the integrity of Voyage Data Recorder (VDR) logs. By using open-source forensic tools and custom scripts, the Raspberry Pi can also parse and analyze binary VDR data, extract relevant parameters, and visualize timelines for incident reconstruction. Its portability enables responders to quickly deploy on scene, perform triage analysis, and preserve digital evidence without relying on the vessel’s primary computing infrastructure. Ultimately, the Raspberry Pi empowers maritime investigators with a flexible, low-cost, and technically capable platform for rapid and accurate forensic analysis at sea.
 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/1afa90e1-4bd5-47fb-aa90-02482c073a65" />
+
+The order to complete these files is:
+1. Configuration.md
+2. Connection.md
+3. LAN.md
