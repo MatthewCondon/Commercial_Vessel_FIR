@@ -17,3 +17,6 @@ The importance of data is:
 1. Voyage Data Recorder
 2. NMEA-2000
 3. Computer Triage
+
+# Contributions
+This Commercial Vessel FIR SOP was developed by 1/c Matthew Condon, 1/c James Kang, 1/c Cassandra Moshy, and 1/c Ryan Von Weihe during the 2025-2026 USCGA academic year. The capstone advisor was LT DeValk-Hammond.
