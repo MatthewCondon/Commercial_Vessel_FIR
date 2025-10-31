@@ -71,4 +71,4 @@ sudo systemctl restart dhcpcd
 You can also reboot the entire Raspberry Pi.
 
 # Connectivity
-To ensure the static IP addresses have been properly assigned, ping the investigating computer from the Raspberry Pi and the Raspberry Pi from the investigating computer.
+To ensure the static IP addresses have been properly assigned, ping the investigating computer from the Raspberry Pi and the Raspberry Pi from the investigating computer. Assuming the connection is possible, you should be able to SSH into the Raspberry Pi.
