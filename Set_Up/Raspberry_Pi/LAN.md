@@ -42,7 +42,7 @@ Now, investigators should be able to ssh into the Raspberry Pi normally using th
 ## Permanently Reconfiguring IP Interfaces
 The computer and Raspberry Pi static addresses are volatile if the computer needs to restart, so you may want to make it a permanent change.
 
-### Investigating Compputer
+### Investigating Computer
 On the investigating computer, run:
 ```
 nmcli connection show
