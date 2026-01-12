@@ -1,4 +1,4 @@
-# Model-Specific Software
+# Model-Specific Software and Manuals
 Most VDRs may have a specific type of software to conduct analysis on the data. Those for different VDR models discussed in the [VDR Background](/Background/VDR/Requirements.md) section are:
 
 | Name | Expected Data Format / Type | Software Name | Software Link |
