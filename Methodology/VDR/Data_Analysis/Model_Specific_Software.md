@@ -11,4 +11,3 @@ Most VDRs may have a specific type of software to conduct analysis on the data. 
 | Kelvin Hughes MantaDigital VDR | **Software**:  <br> **Manual**: |  |  |
 | Furuno VR-3000 Series | **Software**:  <br> **Manual**: |  |  |
 | NetWave Float-Free VDR | **Software**:  <br> **Manual**: |  |  |
-| Consilium VDR (S-VDR / FDR) | **Software**:  <br> **Manual**: |  |  |
