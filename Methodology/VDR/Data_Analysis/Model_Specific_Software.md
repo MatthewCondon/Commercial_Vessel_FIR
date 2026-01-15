@@ -9,5 +9,5 @@ Most VDRs may have a specific type of software to conduct analysis on the data. 
 | IMO-Compliant Float-Free VDR (Generic) | **Software**: <br> https://www.furuno.com/en/merchant/vdr/#Software <br> **Manual**: <br> https://www.manualslib.com/manual/3634883/Furuno-Vr-7000.html?controller=view&page=1#manual | Proprietary USB Extraction | Likely most common model |
 | Yacht Devices VDR (YDVR-04N / YDVR-02) | **Software**: <br> https://www.yachtd.com/downloads/YDVRCONV.zip <br> **Manual**: <br> https://www.yachtd.com/downloads/ydvr04.pdf | .DAT | Commonly found on small/personal craft |
 | Kelvin Hughes MantaDigital VDR | **Software**: <br> Likely detailed in manual <br> **Manual**: <br> Likely sent with device <br> **Official Website**: <br> https://www.vanos.gr/product/kelvin-hughes-voyage-data-recorder-vdr/ | Proprietary | One of least common models |
-| Furuno VR-3000 Series | **Software**: <br> Custom LAN Software <br> **Manual**: <br> https://www.manualslib.com/manual/1283132/Furuno-Vr-3000.html?page=1#manual | HDD Extraction |  |
+| Furuno VR-3000 Series | **Software**: <br> Custom LAN Software <br> **Manual**: <br> https://www.manualslib.com/manual/1283132/Furuno-Vr-3000.html?page=1#manual | HDD Extraction | Very common manufacturer |
 | NetWave Float-Free VDR | **Software**:  <br> **Manual**: |  |  |
