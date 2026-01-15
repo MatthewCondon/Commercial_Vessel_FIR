@@ -26,6 +26,9 @@ The importance of data is:
 1. Voyage Data Recorder
 2. NMEA-2000
 3. Computer Triage
+4. Physical Analysis
+
+_It is important that each step in the analysis occurs with all data types. The Flow Chart is designed to assist investigators during initial inquiries into a vessel._
 
 # Contributions
 This Commercial Vessel Incident Response SOP was developed by 1/c Matthew Condon, 1/c James Kang, 1/c Cassandra Moshy, and 1/c Ryan Von Weihe during the 2025-2026 USCGA academic year.
