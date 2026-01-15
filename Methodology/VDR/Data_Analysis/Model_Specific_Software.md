@@ -1,9 +1,9 @@
 # Model-Specific Software and Manuals
 Most VDRs may have a specific type of software to conduct analysis on the data. Those for different VDR models discussed in the [VDR Background](/Background/VDR/Requirements.md) section are:
 
-| VDR Model | Software & Manual | Notes |
+| VDR Model | Software & Manual | File Type | Notes |
 |-----------|-------------------|-------|
-| Danelec Marine DM100 VDR | Software:  <br> Manual: |  |
+| Danelec Marine DM100 VDR | Software: Custom LAN PC Software <br> Manual: https://cdn.prod.website-files.com/660d3cdafac9c4d8c27957a8/66b9c85ade17ab7d203e1b77_danelec-vdr-and-s-vdr-user-guide.pdf |  |
 | AMI Marine Float-Free VDR (L3 / L3Harris) | Software:  <br> Manual: |  |
 | JRC JCY-1900 VDR | Software:  <br> Manual: |  |
 | IMO-Compliant Float-Free VDR (Generic) | Software:  <br> Manual: |  |
