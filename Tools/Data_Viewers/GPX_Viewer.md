@@ -7,6 +7,7 @@ This is an online tool that maps coordinates that a vessel passed during a voyag
 
 ## Requirements
 **.gpx** file
+
 This may be collected from some VDR models or produced/converted from analysis. GPX requires three columns: time, latitude, and longitude
 
 ## Usage
