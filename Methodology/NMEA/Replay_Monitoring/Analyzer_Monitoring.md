@@ -1,5 +1,5 @@
 # Overview
-Analyzer is a decoder and viewer for live NMEA 2000 frames. It processes information from each PGN and turns it into a readable format, noting the type of message such as INFO and ERROR.
+Analyzer is a decoder and viewer for live NMEA 2000 frames. It processes information from each PGN and turns it into a readable format, automatically decoding data and noting the type of message such as INFO and ERROR.
 
 # Collecting Data
 Use of analyzer requires live data collection from the NMEA backbone. 
