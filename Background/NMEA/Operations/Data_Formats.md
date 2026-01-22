@@ -4,7 +4,7 @@ When working with NMEA data, the two main variations are **NMEA 0183** and **NME
 # NMEA 0183
 **Format**
 
-_Varies by Device_
+_Varies by device_
 ```
 $PSHI,001,6.366835,,-3544,-105,16386.05,0,0239,-105*08
 !AIVDM,1,1,,B,15Nb?5PP00rn1k>GbmuoAOv>083g,0*37
