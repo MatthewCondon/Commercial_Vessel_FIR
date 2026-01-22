@@ -5,7 +5,7 @@ This section is focused on extracting data from the YDVR-04N model. This VDR is 
 ## Step 1: Software Download
 Download the [Extraction Software](https://www.yachtd.com/downloads/YDVRCONV.zip)
 
-Unzip the zip file to the local file system
+Unzip the zip file to the local file system.
 
 There are three different versions, depending on the investigator's Operating System:
 - Windows
@@ -18,10 +18,10 @@ A usage manual is included in the zip file.
 Depending on the host Operating System, a local defender/antivirus may think the extraction software is harmful. Disregard this warning and run the software.
 
 ### Page 1: Welcome to YDVR Converter
-The necessary format to use this software is **.DAT**
+The necessary format to use this software is **.DAT**.
 
 ### Page 2: Select Source Files
-Locate the .DAT files in the local file system and upload them to the software
+Locate the .DAT files in the local file system and upload them to the software.
 **Note:** a completed .DAT file will be approximately 2,500 KB (usually 2,560 KB). The last file was be less than this amount.
 
 ### Page 3: Select Output File Type
