@@ -6,3 +6,5 @@ A template for analyzing a model has been provided in this directory: [Model_Nam
 Additionally, two file templates should be used:
 - [Extraction Template](/Methodology/VDR/Model_Specific_Analysis/Model_Name/Extraction_Template.md)
 - [Analysis Template](/Methodology/VDR/Model_Specific_Analysis/Model_Name/Analysis_Template.md)
+
+_Add more files as necessary. To provide images, place them in /Images and reference them in the template._
