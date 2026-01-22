@@ -7,7 +7,7 @@ Download the [Extraction Software](https://www.yachtd.com/downloads/YDVRCONV.zip
 
 Unzip the zip file to the local file system.
 
-There are three different versions, depending on the investigator's Operating System:
+The software works on the below Operating Systems:
 - Windows
 - Linux
 - OS X / macOS
