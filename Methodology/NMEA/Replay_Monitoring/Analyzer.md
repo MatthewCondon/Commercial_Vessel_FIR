@@ -6,6 +6,7 @@
 
 # Interpreting Output
 
+
 ```
 INFO 2025-12-16T17:22:41.964Z [analyzer] Assuming normal format with one line per packet
 INFO 2025-12-16T17:22:41.964Z [analyzer] New PGN 127488 for device 127 (heap 11183 bytes)
