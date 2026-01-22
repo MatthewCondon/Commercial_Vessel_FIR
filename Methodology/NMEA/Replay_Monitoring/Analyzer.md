@@ -1,11 +1,25 @@
 # Overview
-
+Analyzer is a decoder and viewer for live NMEA 2000 frames. It processes information from each PGN and turns it into a readable format, noting the type of message such as INFO and ERROR.
 
 # Collecting Data
+Use of analyzer requires live data collection from the NMEA backbone. 
 
+A connection to the can0 interface must be established before data can be sent.
+```
+sudo ip link set can0 up type can bitrate 250000 restart-ms 100
+```
+
+The command to collect and save to an output file is:
+```
+candump can0 | candump2analyzer | analyzer > output.txt
+```
 
 # Interpreting Output
+Data will be saved in the format seen below. There will be additional header information at the beginning of the file, but it can be ignored as it only relates to software production and copyright.
 
+To analyze this information, focus on the PGN of interest and determine trends or frequency of frame. It is also beneficial to consider a large number of ERROR frames.
+
+The command output is shown below:
 
 ```
 INFO 2025-12-16T17:22:41.964Z [analyzer] Assuming normal format with one line per packet
