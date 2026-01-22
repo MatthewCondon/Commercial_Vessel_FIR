@@ -25,4 +25,9 @@ candump2analyzer < CAN.log > CSV.log
 _This command has no output associated with it._
 
 ## Compact Human-Readable > Raw SocketCAN
-This must be transformed during the collection process.
+_This must be transformed during the collection process._
+```candump can0 | candump2analyzer```
+
+## Raw SocketCAN > Analyzer
+_This must be transformed during the collection process._
+```candump can0 | candump2analyzer | analyzer```
