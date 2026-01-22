@@ -1,4 +1,4 @@
-# [N2KView]
+# N2KView
 ## Summary
 This is a software that allows investigators to interface directly with the vessel's Local Area Network using the Internet Protocol Gateway device. It provides a graphical interface to view current status
 
