@@ -14,4 +14,6 @@
 
 ### Format 5: CanBoat / Signal K - LOG File
 
-### Format 6: NMEA Devices List - CSV File
+### Format 6: CAN Data - LOG File
+
+### Format 7: NMEA Devices List - CSV File
