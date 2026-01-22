@@ -2,7 +2,8 @@
 When working with NMEA data, the two main variations are **NMEA 0183** and **NMEA 2000**. Both data types of encoded and collected in different ways.
 
 # NMEA 0183
-
+**Format**
+_Varies by Device_
 ```
 $PSHI,001,6.366835,,-3544,-105,16386.05,0,0239,-105*08
 !AIVDM,1,1,,B,15Nb?5PP00rn1k>GbmuoAOv>083g,0*37
@@ -24,7 +25,8 @@ $PSHI,001,39.308708,,167,-68,163838.99,0,1474,-68*10
 
 # NMEA 2000
 ## Raw SocketCAN
-
+**Format**
+_(epoch) interface canID#payload_
 ```
 (1765905989.266590) can0 09F8012B#FFFFFF7FFFFFFF7F
 (1765905989.332540) can0 11F80E2B#201C0189040616FF
@@ -45,6 +47,8 @@ $PSHI,001,39.308708,,167,-68,163838.99,0,1474,-68*10
 ```
 
 ## Compact Human-Readable
+**Format**
+_interface canID [priority] payload_
 
 ```
   can0  09F8012B   [8]  FF FF FF 7F FF FF FF 7F
@@ -66,6 +70,8 @@ $PSHI,001,39.308708,,167,-68,163838.99,0,1474,-68*10
 ```
 
 ## CSV Format
+**Format**
+_timestamp channel PGN priority source length payload1-8_
 
 ```
 2025-12-16-17:22:40.967,2,129025,43,255,8,ff,ff,ff,7f,ff,ff,ff,7f
