@@ -1,4 +1,4 @@
-# Approaches
+# Analysis Approaches
 There are two primary approaches to be employed when analyzing a vessel for a possible cyber influence. Each requires different questions to be asked during investigation. 
 
 ## Proactive
