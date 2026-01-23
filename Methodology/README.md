@@ -6,7 +6,7 @@ There are two primary approaches to be employed when analyzing a vessel for a po
 Investigation Areas:
 - Ensure VDR is collecting data normally
 - Determine if any abnormal devices are on the NMEA network
-- Identify any open connectors that communicate with the NMEA backbone
+- Identify any open connectors that have the ability to communicate with the NMEA backbone
 
 Questions to Ask:
 - Is the VDR fully operational and processing accurate data?
