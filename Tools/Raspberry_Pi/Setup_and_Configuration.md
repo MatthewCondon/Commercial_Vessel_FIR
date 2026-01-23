@@ -5,7 +5,7 @@
 In order to conduct any analysis on the NMEA 2000 Network, it is necessary to configure a Raspberry Pi with NMEA Hat.
 
 When conducting our analysis of the NMEA 2000 Vessel Simulator, we used the following hardware:
-- Raspberry https://copperhilltech.com/pican-m-nmea-0183-nmea-2000-hat-for-raspberry-pi/
+- Raspberry Pi: https://copperhilltech.com/pican-m-nmea-0183-nmea-2000-hat-for-raspberry-pi/
 
 <p align="center">
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/cb3574d2-6b94-4899-9415-9115c67e0be5" />
@@ -16,6 +16,8 @@ When conducting our analysis of the NMEA 2000 Vessel Simulator, we used the foll
 <p align="center">
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7ca90574-f948-4629-9897-b083aa961b6a" />
 </p>
+
+- Protective Case: https://copperhilltech.com/metal-enclosure-for-pican-m-and-raspberry-pi-4/
 
 ## Cable Management
   
