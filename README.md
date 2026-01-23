@@ -6,10 +6,10 @@
 - [Triage Background](/Background/Triage)
 
 ### Methodology
+- [Proactive vs Reactive Analysis](/Methodology/README.md)
 - [Voyage Data Recorder Methodology](/Methodology/VDR)
 - [NMEA Methodology](/Methodology/NMEA)
 - [Triage Methodology](/Methodology/Triage)
-- [Important Questions To Ask](/Methodology/README.md)
 
 ### Tools
 - [Raspberry Pi Forensic Computer](/Tools/Raspberry_Pi/)
