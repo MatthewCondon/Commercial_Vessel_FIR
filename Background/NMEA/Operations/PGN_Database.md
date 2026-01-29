@@ -41,7 +41,7 @@
 
 | Priority | PGN     | Name                   | Data Type   | Detecting Anomalies/Description |
 |----------|---------|------------------------|-------------|---------------------------------|
-| 🔴 | 127237 | Heading/Track Control | Degrees     | Used by the ships autopilot system, shows the disired heading, current heading, and cross track error. In searching for anmolies look at the ships intended trackline from the brief and compare it with where the ship actually went. |
+| 🔴 | 127237 | Heading/Track Control | Degrees     | Used by the ships autopilot system, shows the desired heading, current heading, and cross track error. In searching for anmolies look at the ships intended trackline from the brief and compare it with where the ship actually went. |
 | 🔴 | 127245 | Rudder               | Degrees     | Shows the ships rudder angle in degreees. In searching for anomlies look for large changes or changes that are contradictory to the trackline. |
 | 🔴 | 127250 | Vessel Heading       | Degrees     | Shows the current direction the vessel is going in degrees magnetic and true. To check for anomlies look for changes that are contradictory to rudder angle and trackline. |
 | 🟡 | 127251 | Rate of Turn         | Degrees/MIN | Shows the turn rate of the vessel. This is used by the boats autopilot to keep the boat on course. When looking at anomlies look for readings that are happening when the vessel is not turning and does not reflect the seastate the vessel is in. |
