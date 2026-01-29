@@ -11,6 +11,6 @@ When conducting initial research into the CAN protocol, attacks focused on indiv
 **MarCANex**: https://github.com/Jstith/MarCANex
 
 # NEMO
-After developing an understanding the relationship between NMEA and possible cyberattacks, more aggressive tests were used to strengthen the incident response scripts. This assisted with testing heavier attacks that were harder to detect such as a DOS.
+After developing an understanding the relationship between NMEA and possible cyberattacks, more aggressive tests were used to strengthen the incident response scripts. This assisted with testing heavier attacks that were harder to detect such as a DOS or impersonation.
 
 **NEMO**: https://github.com/Soups71/NEMO
