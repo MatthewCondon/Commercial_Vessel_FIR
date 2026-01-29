@@ -1,6 +1,6 @@
 # YDVR-04N Extraction
 ## Summary
-This section is focused on extracting data from the YDVR-04N model. This VDR is generally seen on smaller craft and allows for extraction of raw NMEA 2000 frames.
+This section is focused on extracting data from the YDVR-04N model. This VDR is generally seen on smaller craft and allows for extraction of raw NMEA 2000 frames. To analyze data, it can be extracted using the Yacht Devices software or reverse engineering the DAT file from the VDR.
 
 ## Method 1 - Software Extraction
 ### Step 1: Software Download
