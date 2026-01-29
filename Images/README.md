@@ -1,2 +1,2 @@
 # Summary
-A directory responsible for all images in this GitHub.
+A directory to hold all images in this GitHub.
