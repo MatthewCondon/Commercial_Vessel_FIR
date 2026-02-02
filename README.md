@@ -19,7 +19,12 @@
 
 
 ## Flow Chart
-<img width="4719" height="2425" alt="Capstone Flow Chart new (3)" src="https://github.com/user-attachments/assets/68d35ccd-14a9-4688-b61b-01d686aaff7a" />
+<img
+  width="4719"
+  height="2425"
+  alt="Capstone Flow Chart new (3)"
+  src="Images/FlowChart.png"
+/>
 
 ### Data Hierarchy
 The importance of data is:
