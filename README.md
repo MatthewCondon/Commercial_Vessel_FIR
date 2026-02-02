@@ -1,4 +1,6 @@
 # Forensic Analysis of Maritime Cyber Incidents
+This GitHub repository contains backgrounds and methodologies for USCG CPTs to employ during incident response of possible cyberattacks targeting ships.
+
 ## Table of Contents
 ### Background
 - [Voyage Data Recorder Background](/Background/VDR)
