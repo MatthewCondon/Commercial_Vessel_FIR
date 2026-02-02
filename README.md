@@ -18,7 +18,7 @@
 - [Miscellaneous Tools](/Tools/Data_Viewers/)
 
 
-## Flow Chart
+## Decision Tree
 <img
   width="4719"
   height="2425"
