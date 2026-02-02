@@ -50,7 +50,7 @@ Select _Finish_ to save the downloaded output file.
 
 ## Method 2 - DAT Reverse Engineering
 ### Step 1: Script
-Utilize the script at [Location for extraction script]
+Utilize the script: [DAT_EXtractor_To_Zip.sh](/Methodology/VDR/Model_Specific_Analysis/YDVR-04N/Analysis_Sccripts/)
 
 To run the script, enter the below command:
 ```
