@@ -52,14 +52,22 @@ Select _Finish_ to save the downloaded output file.
 ### Step 1: Script
 Utilize the script: [DAT_Extractor_To_Zip.sh](/Methodology/VDR/Model_Specific_Analysis/YDVR-04N/Analysis_Scripts/)
 
-To run the script, enter the below command:
+To run the script, enter the below commands:
 ```
-insert command
+chmod +x DAT_Extractor_To_Zip.sh
 ```
+```
+Usage:
+./DAT_Extractor_To_Zip.sh 00010001.DAT --mode 1
+./DAT_Extractor_To_Zip.sh 00010001.DAT --mode 2
+```
+Mode 1: searches for PGN frames with timestamps, all other frames will contain an empty field
+
+Mode 2: searches for PGN frames with timestamps, all other frames will contain a field with inferred timelines based on these findings
 
 ### Step 2: Expected Output
-The output will produce two files:
+The output will produce a ZIP file that contains three files, corresponding to each of the three main data formats used by NMEA networks:
 
-1. 
-
-2. 
+1. 00010001_socketcan.log
+2. 00010001_csv.csv
+3. 00010001_decoded.txt
