@@ -7,9 +7,9 @@
 
 ### Methodology
 - [Proactive vs Reactive Analysis](/Methodology/README.md)
-- [Voyage Data Recorder Methodology](/Methodology/VDR)
-- [NMEA Methodology](/Methodology/NMEA)
-- [Triage Methodology](/Methodology/Triage)
+- [Voyage Data Recorder Methodology & Scripts](/Methodology/VDR)
+- [NMEA Methodology & Scripts](/Methodology/NMEA)
+- [Triage Methodology & Scripts](/Methodology/Triage)
 
 ### Tools
 - [Raspberry Pi Forensic Computer](/Tools/Raspberry_Pi/)
