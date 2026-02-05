@@ -20,6 +20,11 @@ When conducting Incident Response and Analysis, complete the following steps in 
 When working with historical and live NMEA 2000 data, investigators may need to reference the [Conversions Table](/Methodology/NMEA/Data_Conversions/NMEA2000_Conversions.md). Different programs in the NMEA Methodology rely on different data types.
 
 ## Anomalous Behavior
+To identify if an anomaly exists during Vessel Replay or Vessel Monitoring:
+- **Identify devices not sending PGNs or sending corrupted data** - displays will drop this data
+- **Identify PGNs sending 2+ data frames at the same instant with different data** - displays will drop this data
+- **Identify abnormal movements or actions on vessel display systems** - this includes large changes in GPS, jumps in sensor readings, or no data being received - displays will either drop this data or switch between shown data
+
 To identify if an anomaly exists in the HMM Classifier Model...
 
 To identify if an anomaly exists in the PGN-Specific Scripts...
