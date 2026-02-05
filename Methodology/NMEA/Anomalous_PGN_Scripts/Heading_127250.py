@@ -114,7 +114,7 @@ def compute_deltas(points: List[Point]) -> List[Delta]:
         )
     return out
 
-
+#compares the median delta to the MAD. the values that are outside the threshhold get flagged as anomalous data 
 def flag_anoms(deltas: List[Delta], k: float) -> Tuple[float, float, List[Tuple[int, Delta]]]:
     vals = [d.d_deg for d in deltas]
     if not vals:
@@ -132,9 +132,9 @@ def flag_anoms(deltas: List[Delta], k: float) -> Tuple[float, float, List[Tuple[
 
     return med, m, anoms
 
-
+#creates arguments 
 def main() -> int:
-    ap = argparse.ArgumentParser()
+    ap = argparse.()
     ap.add_argument("--log", required=True, help="Path to your plain-text log file.")
     ap.add_argument("--pgn", type=int, default=DEFAULT_PGN, help="PGN to analyze (default 127250).")
     ap.add_argument("--k", type=float, default=8.0, help="MAD multiplier (default 8.0).")
@@ -149,7 +149,7 @@ def main() -> int:
 
     ds = compute_deltas(pts)
     med, m, anoms = flag_anoms(ds, args.k)
-
+#prints out anomlous data and how it was found 
     print(f"Delta median: {med:.6f} deg")
     print(f"Delta MAD:    {m:.6f} deg")
     print(f"Anomalies:    {len(anoms)} (rule: |delta - median| > {args.k}*MAD)\n")
