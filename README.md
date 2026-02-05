@@ -4,7 +4,7 @@ This GitHub repository contains backgrounds and methodologies for USCG CPTs to e
 ## Table of Contents
 ### Background
 - [Voyage Data Recorder Background](/Background/VDR)
-- [NMEA Background](/Background/NMEA  )
+- [NMEA Background](/Background/NMEA)
 - [Triage Background](/Background/Triage)
 
 ### Methodology
