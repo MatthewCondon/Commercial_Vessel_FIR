@@ -15,6 +15,10 @@ can0  09F8012B   [8]  FF FF FF 7F FF FF FF 7F
 2025-12-16-17:22:40.967,2,129025,43,255,8,ff,ff,ff,7f,ff,ff,ff,7f
 ```
 
+# Analyzer Format
+An additional format may be used during collection of NMEA 2000 data. It can be found at [Analyzer](Methodology/NMEA/Replay_Monitoring/Analyzer_Monitoring.md). This format cannot be translated into Raw SocketCAN, Compact Human-Readable, or CSV. However, it provides the data in a more structured and human-readable format, with additional information such as INFO and ERROR.
+
+
 # Converting Data Formats
 The relevant conversions for an investigation are shown below.
 
