@@ -7,6 +7,7 @@ Investigation Areas:
 - Ensure VDR is collecting data normally
 - Determine if any abnormal devices are on the NMEA network
 - Identify any open connectors that have the ability to communicate with the NMEA backbone
+- Detect if any devices are not actively sending PGNs
 
 Questions to Ask:
 - Is the VDR fully operational and processing accurate data?
@@ -18,6 +19,7 @@ Investigation Areas:
 - Determine if any devices were sending abnormal packets (timing, content, etc.)
 - Identify unknown devices on the NMEA network (Raspberry Pi, USB, etc.)
 - Check all wires and cables to ensure they are operational (water damage, loose connection, etc.)
+- Detect if any devices are not actively sending PGNs
 
 Questions to Ask:
 - Where is the VDR? Did it continue collecting after the incident occurred/was noticed?
