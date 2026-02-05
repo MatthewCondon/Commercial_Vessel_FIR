@@ -1,9 +1,16 @@
 # Triage Analysis
 ## Background
-The background information for the traditional triage can be found at...
+The background information for the traditional triage can be found at [Triage Background](/Background/Triage).
 
 ## Incident Response Actions
-Explanation
+When conducting Incident Response and Analysis, complete the following steps in the provided order:
+- FTK Imager...
+  - 
+- Autopsy...
+  - 
+- Physical Analysis
+  - Identify any broken, damaged, or poorly connected wires
+  - Identify any USB or external devices connected to computers or the vessel backbone
 
 ## Anomalous Behavior
-Explanation
+To identify if an anomaly exists...
