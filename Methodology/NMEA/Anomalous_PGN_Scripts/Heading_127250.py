@@ -27,10 +27,11 @@ DEFAULT_PGN = 127250
 @dataclass
 class Point:
     t: str          # keep timestamp as string (no parsing needed)
-    heading: float  # degrees [0, 360)
+    heading: float  # stores heading in degrees [0, 360)
 
 
 @dataclass
+#this class stores the data of the difference between 2 points 
 class Delta:
     t_prev: str
     t_curr: str
@@ -50,32 +51,32 @@ LINE_RE = re.compile(
     re.VERBOSE,
 )
 
-# Finds "Heading = 123.4" or "heading=123.4deg" etc.
+# Finds looks at heading and anticipates different possible versions "Heading = 123.4" or "heading=123.4deg" etc.
 HEADING_RE = re.compile(r"\bheading\b\s*=\s*([-+]?\d+(?:\.\d+)?)", re.IGNORECASE)
 
-
+#makes the heading into compass range 
 def normalize(h: float) -> float:
     h = h % 360.0
     return h + 360.0 if h < 0 else h
 
-
+#calculates the true turn range between the heading 
 def circ_delta(prev: float, curr: float) -> float:
     d = (curr - prev) % 360.0
     if d > 180.0:
         d -= 360.0
     return d
 
-
+# calculates the varibility using Median Absolute Deviation 
 def mad(vals: List[float]) -> float:
     if not vals:
         return 0.0
     m = statistics.median(vals)
     return statistics.median([abs(x - m) for x in vals])
 
-
+#reads the log file and extracts the data 
 def parse_points(path: str, pgn: int) -> List[Point]:
     points: List[Point] = []
-    with open(path, "r", encoding="utf-8", errors="ignore") as f:
+    with open(path, "r", encoding="utf-8", errors="ignore") as f:      #this goes line by line 
         for line in f:
             line = line.strip()
             if not line:
@@ -98,7 +99,7 @@ def parse_points(path: str, pgn: int) -> List[Point]:
 
     return points
 
-
+#takes different points and converts them into deltas 
 def compute_deltas(points: List[Point]) -> List[Delta]:
     out: List[Delta] = []
     for i in range(1, len(points)):
