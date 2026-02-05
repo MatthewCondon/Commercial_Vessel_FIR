@@ -1,6 +1,6 @@
 # NMEA Analysis
 ## Background
-The background information for NMEA can be found at [NMEA Background](/Background/NMEA)
+The background information for NMEA can be found at [NMEA Background](/Background/NMEA).
 
 ## Incident Response Actions
 When conducting Incident Response and Analysis, complete the following steps in the provided order:
