@@ -14,3 +14,8 @@ When conducting initial research into the CAN protocol, attacks focused on indiv
 After developing an understanding the relationship between NMEA and possible cyberattacks, more aggressive tests were used to strengthen the incident response scripts. This assisted with testing heavier attacks that were harder to detect such as a DOS or impersonation.
 
 **NEMO**: https://github.com/Soups71/NEMO
+
+# maritime-dissector
+WHen configuring Wireshark for PCAP Analysis of NMEA data, much of the information was used from the maritime-dissector repository. It contains custom lua files to analyze NMEA PCAP files, as Wireshark does not generally enable this process.
+
+**maritime-dissector**: https://github.com/fkie-cad/maritime-dissector
