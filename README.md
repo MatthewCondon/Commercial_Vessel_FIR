@@ -1,5 +1,13 @@
-# Forensic Analysis of Maritime Cyber Incidents
-This GitHub repository contains backgrounds and methodologies for USCG CPTs to employ during incident response of possible cyberattacks targeting ships.
+# MarINA Framework
+_A Framework for Maritime Incident & Network Analysis_
+This GitHub repository contains all TTPs for USCG CPTs to employ during cyber forensic analysis in maritime environments. The information contained is to assist operators in determining risk or likelihood of a cyberattack and is focused on assisting the decision-making process.
+
+<img
+  width="2360"
+  height="1213"
+  alt="MarINA Logo (3)"
+  src="Images/MARina.png"
+/>
 
 ## Table of Contents
 ### Background
