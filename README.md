@@ -28,11 +28,10 @@ This GitHub repository contains all TTPs for USCG CPTs to employ during cyber fo
 
 ## Decision Tree
 When responding to a maritime cyber incident, it is important that certain steps be taken to maximize response efforts.
-<img
-  width="50%"
-  alt="Capstone Flow Chart new (3)"
-  src="Images/FlowChart.png"
-/>
+
+<p align="center">
+  <img src="Images/FlowChart.png" alt="Decision Tree Flow Chart" width="60%">
+</p>
 
 ### Data Hierarchy
 The importance of data is:
