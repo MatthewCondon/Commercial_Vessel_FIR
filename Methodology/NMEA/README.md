@@ -15,8 +15,8 @@ When conducting Incident Response and Analysis, complete the following steps in 
   - Collect at least 10 minutes of data
     - Detect anomalous behavior using the [HMM Classifier Model](/Methodology/NMEA/Classifier)
     - Investigate specific PGN anomalies using the [PGN-Specific Scripts](/Methodology/NMEA/Anomalous_PGN_Scripts)
-  - **Used in either case**
-    - Analyze PCAP files for CAN traffic patterns on the NMEA backbone using [can2pcap](/Methodology/NMEA/PCAP_Analysis/can2pcap.py)
+- **Used in either case**
+  - Analyze PCAP files for CAN traffic patterns on the NMEA backbone using [can2pcap](/Methodology/NMEA/PCAP_Analysis/can2pcap.py)
 
 ### Data Conversions
 When working with historical and live NMEA 2000 data, investigators may need to reference the [Conversions Table](/Methodology/NMEA/Data_Conversions/NMEA2000_Conversions.md). Different programs in the NMEA Methodology rely on different data types.
