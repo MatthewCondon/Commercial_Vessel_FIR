@@ -3,13 +3,15 @@ These actions require Raw SocketCAN data from the vessel, and cannot be complete
 
 ## Wireshark NMEA Dissector
 These files must be in the Wireshark plugins folder:
-C:\Users\User\AppData\Roaming\Wireshark\plugins
+
+```C:\Users\User\AppData\Roaming\Wireshark\plugins```
 
 Use ```maritime-modules``` and ```maritime-dissector.lua```
 
 Then, restart Wireshark or reload the lua files.
 
 ```Analyze > Reload Lua Plugins```
+
 This can be achieved using ```Ctrl + Shift + L```
 
 ## Maritime-N2K.Zip
