@@ -29,8 +29,7 @@ This GitHub repository contains all TTPs for USCG CPTs to employ during cyber fo
 ## Decision Tree
 When responding to a maritime cyber incident, it is important that certain steps be taken to maximize response efforts.
 <img
-  width="2360"
-  height="1213"
+  width="50%"
   alt="Capstone Flow Chart new (3)"
   src="Images/FlowChart.png"
 />
