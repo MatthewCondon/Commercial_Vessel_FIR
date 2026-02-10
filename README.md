@@ -46,6 +46,6 @@ The importance of data is:
 _It is important that each step in the analysis occurs with all data types. The Flow Chart is designed to assist investigators during initial inquiries into a vessel._
 
 # Contributions
-This Commercial Vessel Incident Response SOP was developed by 1/c Matthew Condon, 1/c James Kang, 1/c Cassandra Moshy, and 1/c Ryan Von Weihe during the 2025-2026 USCGA academic year.
+The MarINA Framework was developed by 1/c Matthew Condon, 1/c James Kang, and 1/c Ryan Von Weihe during the 2025-2026 USCGA academic year.
 
 The capstone advisor was LT Kaitlyn DeValk-Hammond.
