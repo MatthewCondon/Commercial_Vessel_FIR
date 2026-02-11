@@ -6,7 +6,7 @@ _A Framework for Maritime Incident & Network Analysis_
 This GitHub repository contains all TTPs for USCG CPTs to employ during cyber forensic analysis in maritime environments. The information contained is to assist operators in determining risk or likelihood of a cyberattack and is focused on assisting the decision-making process.
 
 <p align="center">
-  <img src="Images/MARinaName.png" alt="MarINA Logo" width="50%">
+  <img src="/Images/MARinaName.png" alt="MarINA Logo" width="50%">
 </p>
 
 
@@ -33,7 +33,7 @@ This GitHub repository contains all TTPs for USCG CPTs to employ during cyber fo
 When responding to a maritime cyber incident, it is important that certain steps be taken to maximize response efforts.
 
 <p align="center">
-  <img src="Images/FlowChart.png" alt="Decision Tree Flow Chart" width="60%">
+  <img src="/Images/FlowChart.png" alt="Decision Tree Flow Chart" width="60%">
 </p>
 
 ### Data Hierarchy
