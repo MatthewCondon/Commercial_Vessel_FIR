@@ -15,7 +15,7 @@ There are many different models of the VDR. Some are pictured below:
 
 <table style="width:100%; border-collapse:collapse;">
 
-  <!-- ROW 1: HEADER -->
+  <!-- ROW 1 -->
   <tr style="background:#e9ecef;">
     <th style="border:1px solid #333; padding:10px; text-align:center;">Danelec Marine DM100</th>
     <th style="border:1px solid #333; padding:10px; text-align:center;">AMI Marine Float-Free VDR</th>
@@ -23,23 +23,23 @@ There are many different models of the VDR. Some are pictured below:
     <th style="border:1px solid #333; padding:10px; text-align:center;">IMO-Compliant Float-Free VDR</th>
   </tr>
 
-  <!-- ROW 2: IMAGES -->
-  <tr style="background:#ffffff;">
-    <td style="border:1px solid #333; padding:16px; text-align:center;">
-      <img src="/Images/MARinaName.png" alt="MarINA Logo" style="width:70%; height:auto;">
+  <!-- ROW 2 -->
+  <tr>
+    <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
+      <img src="/Images/MARinaName.png" alt="MarINA Logo" width="180">
     </td>
-    <td style="border:1px solid #333; padding:16px; text-align:center;">
-      <img src="/Images/MARinaName.png" alt="MarINA Logo" style="width:70%; height:auto;">
+    <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
+      <img src="/Images/MARinaName.png" alt="MarINA Logo" width="180">
     </td>
-    <td style="border:1px solid #333; padding:16px; text-align:center;">
-      <img src="/Images/MARinaName.png" alt="MarINA Logo" style="width:70%; height:auto;">
+    <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
+      <img src="/Images/MARinaName.png" alt="MarINA Logo" width="180">
     </td>
-    <td style="border:1px solid #333; padding:16px; text-align:center;">
-      <img src="/Images/MARinaName.png" alt="MarINA Logo" style="width:70%; height:auto;">
+    <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
+      <img src="/Images/MARinaName.png" alt="MarINA Logo" width="180">
     </td>
   </tr>
 
-  <!-- ROW 3: HEADER -->
+  <!-- ROW 3 -->
   <tr style="background:#e9ecef;">
     <th style="border:1px solid #333; padding:10px; text-align:center;">Yacht Devices VDR</th>
     <th style="border:1px solid #333; padding:10px; text-align:center;">Kelvin Hughes MantaDigital VDR</th>
@@ -47,19 +47,19 @@ There are many different models of the VDR. Some are pictured below:
     <th style="border:1px solid #333; padding:10px; text-align:center;">Float-Free VDR (MV Barfleur)</th>
   </tr>
 
-  <!-- ROW 4: IMAGES -->
-  <tr style="background:#ffffff;">
-    <td style="border:1px solid #333; padding:16px; text-align:center;">
-      <img src="/Images/MARinaName.png" alt="MarINA Logo" style="width:70%; height:auto;">
+  <!-- ROW 4 -->
+  <tr>
+    <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
+      <img src="/Images/MARinaName.png" alt="MarINA Logo" width="180">
     </td>
-    <td style="border:1px solid #333; padding:16px; text-align:center;">
-      <img src="/Images/MARinaName.png" alt="MarINA Logo" style="width:70%; height:auto;">
+    <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
+      <img src="/Images/MARinaName.png" alt="MarINA Logo" width="180">
     </td>
-    <td style="border:1px solid #333; padding:16px; text-align:center;">
-      <img src="/Images/MARinaName.png" alt="MarINA Logo" style="width:70%; height:auto;">
+    <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
+      <img src="/Images/MARinaName.png" alt="MarINA Logo" width="180">
     </td>
-    <td style="border:1px solid #333; padding:16px; text-align:center;">
-      <img src="/Images/MARinaName.png" alt="MarINA Logo" style="width:70%; height:auto;">
+    <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
+      <img src="/Images/MARinaName.png" alt="MarINA Logo" width="180">
     </td>
   </tr>
 
