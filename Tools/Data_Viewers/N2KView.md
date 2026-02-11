@@ -3,7 +3,9 @@
 ## Summary
 This is a software that allows investigators to interface directly with the vessel's Local Area Network using the Internet Protocol Gateway device. It provides a graphical interface to view current status of all equipment and even NMEA device messages.
 
-<img width="1000" height="768" alt="image" src="https://github.com/user-attachments/assets/4dce5202-0148-4c04-b32d-7b65c2524c7a" />
+<p align="center">
+  <img src="/Images/n2kview.png" alt="N2K VIEW Tool" width="100%">
+</p>
 
 ## Requirements
 Internet Protocol Device
