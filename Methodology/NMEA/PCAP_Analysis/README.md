@@ -18,7 +18,7 @@ Use output.txt in accordance with directions of the sub-directories.
 ## Wireshark I/O Graphs
 **Follow the below instructions to create custom I/O Graphs.** These will allow you to visually view the PGNs sent throughout the PCAP files. Complete the dissector steps before this form of analysis.
 
-```Statistics > I/O Graphs > + / Add a new graph.```
+```Statistics > I/O Graphs > + ( Add a new graph )```
 
 Now, complete the following steps:
 1. Disable all other graphs and enable the new one.
