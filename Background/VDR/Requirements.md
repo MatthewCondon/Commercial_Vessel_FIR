@@ -26,16 +26,16 @@ There are many different models of the VDR. Some are pictured below:
   <!-- ROW 2 -->
   <tr>
     <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
-      <img src="/Images/dm100.jpg" alt="DM100 VDR" width="180">
+      <img src="/Images/VDR_Pictures/dm100.jpg" alt="DM100 VDR" width="180">
     </td>
     <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
-      <img src="/Images/ami.jpg" alt="AMI VDR" width="180">
+      <img src="/Images/VDR_Pictures/ami.jpg" alt="AMI VDR" width="180">
     </td>
     <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
-      <img src="/Images/jrc.webp" alt="JRC VDR" width="180">
+      <img src="/Images/VDR_Pictures/jrc.webp" alt="JRC VDR" width="180">
     </td>
     <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
-      <img src="/Images/imo.webp" alt="IMO VDR" width="180">
+      <img src="/Images/VDR_Pictures/imo.webp" alt="IMO VDR" width="180">
     </td>
   </tr>
 
@@ -50,16 +50,16 @@ There are many different models of the VDR. Some are pictured below:
   <!-- ROW 4 -->
   <tr>
     <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
-      <img src="/Images/ydvr.webp" alt="YDVR" width="180">
+      <img src="/Images/VDR_Pictures/ydvr.webp" alt="YDVR" width="180">
     </td>
     <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
-      <img src="/Images/kh.jpg" alt="KH VDR" width="180">
+      <img src="/Images/VDR_Pictures/kh.jpg" alt="KH VDR" width="180">
     </td>
     <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
-      <img src="/Images/furuno.jpg" alt="Furuno VDR" width="180">
+      <img src="/Images/VDR_Pictures/furuno.jpg" alt="Furuno VDR" width="180">
     </td>
     <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
-      <img src="/Images/jotron.webp" alt="Jotron Float Free VDR" width="180">
+      <img src="/Images/VDR_Pictures/jotron.webp" alt="Jotron Float Free VDR" width="180">
     </td>
   </tr>
 
