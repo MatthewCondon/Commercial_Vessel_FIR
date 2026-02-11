@@ -42,3 +42,6 @@ Replay this data using the [CAN Player Application](/Tools/Data_Viewers/CANVIEW.
 This is a list of all devices that communicated with the NMEA backbone at any point in the voyage. 
 
 Analyze this information for any abnormal devices that should not be on the system or are not recognized.
+
+## NMEA Data Analysis
+If any raw NMEA data can be extracted from the VDR or from other sources, it is recommended to use the NMEA Analysis Scripts from [Anomalous PGN Scripts](/Methodology/NMEA/Anomalous_PGN_Scripts)
