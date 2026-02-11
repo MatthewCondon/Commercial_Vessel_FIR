@@ -1,3 +1,7 @@
+# This script converts CSV NMEA 2000 data to Raw SocketCAN format
+# It requires a CSV file, which may be recovered from the VDR. It will output to a file you name in the command line.
+# Usage: python3 csv2socketcan.py oldfile.csv newfile.log
+
 #!/usr/bin/env python3
 import argparse
 import datetime as dt
