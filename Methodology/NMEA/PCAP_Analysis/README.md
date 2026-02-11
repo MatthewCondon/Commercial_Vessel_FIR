@@ -10,5 +10,5 @@ Use output.txt in accordance with directions of the sub-directories.
 Following the instructions in this directory, Wireshark will have the below format:
 
 <p align="center">
-  <img src="/Images/Wireshark" alt="Custom Wireshark" width="100%">
+  <img src="/Images/Wireshark.png" alt="Custom Wireshark" width="100%">
 </p>
