@@ -1,5 +1,5 @@
 # Model-Specific Software and Manuals
-Most VDRs may have a specific type of software to conduct analysis on the data. All collected software and manuals are listed below. The downloaded files are also located in the [Manuals Folder](/Methodology/VDR/Software_and_Manuals/Manuals)
+Most VDRs may have a specific type of software to conduct analysis on the data. All collected software and manuals are listed below. The downloaded files are also located in the [Manuals Folder](/Methodology/VDR/Software_and_Manuals/Manuals).
 
 | VDR Model | Software & Manual | Data Type | Notes |
 |-----------|-------------------|-----------|-------|
