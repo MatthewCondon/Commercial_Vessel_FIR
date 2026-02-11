@@ -2,8 +2,9 @@
 ## Summary
 This is an online tool that maps coordinates that a vessel passed during a voyage. This is effective to see surrounding locations to a voyage track that may have impacted a vessel.
 
-<img width="960" height="661" alt="image" src="https://github.com/user-attachments/assets/4cb0714f-f158-4e29-a7a3-cc1d9d2e2485" />
-
+<p align="center">
+  <img src="/Images/gpxview.png" alt="GPX VIEW Tool" width="100%">
+</p>
 
 ## Requirements
 **.gpx** file
