@@ -31,3 +31,5 @@ Now, complete the following steps:
 <p align="center">
   <img src="/Images/customwiresharkio.png" alt="Custom Wireshark I/O Graph" width="100%">
 </p>
+
+The interval is automatically set to 1 second. Adjust this as necessary depending on the send rate of the inspected PGN.
