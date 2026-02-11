@@ -29,5 +29,5 @@ Now, complete the following steps:
 
 
 <p align="center">
-  <img src="/Images/wiresharkio.png" alt="Custom Wireshark I/O Graph" width="100%">
+  <img src="/Images/customwiresharkio.png" alt="Custom Wireshark I/O Graph" width="100%">
 </p>
