@@ -2,6 +2,9 @@
 ## Summary
 
 ## Step 1: Software Download
+Many tools that can be used during analysis of the YDVR-04N can be found in [Tools](/Tools/Data_Viewers/).
+
+Steps to acquire files for analysis can be found in [YDVR-04N Extraction](/Methodology/VDR/Model_Specific_Analysis/Extraction.md).
 
 ## Step 2: Data Analysis
 ### Format 1: Tracks - GPX File
