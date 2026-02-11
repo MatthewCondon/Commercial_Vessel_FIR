@@ -22,13 +22,13 @@ An additional format may be used during collection of NMEA 2000 data. It can be 
 # Converting Data Formats
 The relevant conversions for an investigation are shown below.
 
-## Raw SocketCAN > CSV
+## Raw SocketCAN & CSV
 ```
 candump2analyzer < CAN.log > CSV.log
 ```
 _This command has no output associated with it._
 
-Consider also using the [csv2socketcan script](/Methodology/NMEA/Data_Conversions/csv2socketcan.py]. The timing may be slightly off during replay but it may still be of use during PCAP investigations.
+Consider also using the [csv2socketcan script](/Methodology/NMEA/Data_Conversions/csv2socketcan.py). The timing may be slightly off during replay but it may still be of use during PCAP investigations.
 
 ## Compact Human-Readable > CSV
 _This must be transformed during the collection process._
