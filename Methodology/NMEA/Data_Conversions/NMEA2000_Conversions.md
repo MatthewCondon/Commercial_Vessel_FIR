@@ -30,10 +30,10 @@ _This command has no output associated with it._
 
 Consider also using the [csv2socketcan script](/Methodology/NMEA/Data_Conversions/csv2socketcan.py]. The timing may be slightly off during replay but it may still be of use during PCAP investigations.
 
-## Compact Human-Readable > Raw SocketCAN
+## Compact Human-Readable > CSV
 _This must be transformed during the collection process._
 ```candump can0 | candump2analyzer```
 
-## Raw SocketCAN > Analyzer
+## Compact Human Readable > Analyzer
 _This must be transformed during the collection process._
 ```candump can0 | candump2analyzer | analyzer```
