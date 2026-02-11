@@ -14,6 +14,7 @@ Use output.txt in accordance with directions of the sub-directories.
   <img src="/Images/wireshark.png" alt="Custom Wireshark" width="100%">
 </p>
 
+This is another format to view and analyze the NMEA data, which can be extracted directly from the backbone or possibly from the VDR.
 
 ## Wireshark I/O Graphs
 **Follow the below instructions to create custom I/O Graphs.** These will allow you to visually view the PGNs sent throughout the PCAP files. Complete the dissector steps before this form of analysis.
