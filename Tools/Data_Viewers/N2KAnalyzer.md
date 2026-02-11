@@ -4,7 +4,7 @@
 This tool is used to analyze the security and legitimacy of devices on a NMEA network. Using the Maretron internet/ethernet gateway, it can list all NMEA network devices, note manufacturer and device information, and display human-readable messages.
 
 <p align="center">
-  <img src="Images/n2kanalyzer.png" alt="N2K Analyzer Tool" width="100%">
+  <img src="/Images/n2kanalyzer.png" alt="N2K Analyzer Tool" width="100%">
 </p>
 
 ## Requirements
