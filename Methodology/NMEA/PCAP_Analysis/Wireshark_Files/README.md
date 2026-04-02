@@ -4,7 +4,7 @@ These actions require Raw SocketCAN data from the vessel, and cannot be complete
 ## Wireshark NMEA Dissector
 These files must be in the Wireshark plugins folder:
 
-```C:\Users\User\AppData\Roaming\Wireshark\plugins```
+```C:\Users\[User]\AppData\Roaming\Wireshark\plugins```
 
 Use ```maritime-modules``` and ```maritime-dissector.lua```
 
