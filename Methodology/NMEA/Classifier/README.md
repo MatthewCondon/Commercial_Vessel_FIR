@@ -30,4 +30,7 @@ To understand what was built,
 2. This puts it all into the different files such as system_hmm_brain.pkl and system_hmm_models.pkl which is just a way of compression of data to be used as a brain.
 3. I also created Brain inspector to allow the user to check what is in the pkl files as we cannot read them.
 4. then can use detector to try and find anomalies using a file from the bad data.
-5. While this may work for the 127250 PGN, it was not massively produced, and there may be some nuances to it as it was not perfected. 
+5. While this may work for the 127250 PGN, it was not massively produced, and there may be some nuances to it as it was not perfected.
+
+From this ss, you can see how the singlePGNDetection worked for the 127250. it found two instances in data8 Bad Data of a massive spike in heading that is anomalous 
+<img width="613" height="323" alt="Screenshot 2026-02-09 090348" src="https://github.com/user-attachments/assets/c4aed058-8bf9-443e-8bdb-6009613c4f22" />
