@@ -1,5 +1,4 @@
 # Wireshark Files
-These actions require Raw SocketCAN data from the vessel, and cannot be completed on the Raspberry Pi.
 
 ## Wireshark NMEA Dissector
 These files must be in the Wireshark plugins folder:
