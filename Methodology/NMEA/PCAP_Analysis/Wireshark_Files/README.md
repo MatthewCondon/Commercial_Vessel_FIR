@@ -5,8 +5,6 @@ These lua files and dissector zip must be in the Wireshark plugins folder on you
 
 ```C:\Users\[User]\AppData\Roaming\Wireshark\plugins```
 
-Use ```maritime-modules``` and ```maritime-dissector.lua```
-
 Then, restart Wireshark or reload the lua files.
 
 ```Analyze > Reload Lua Plugins```
