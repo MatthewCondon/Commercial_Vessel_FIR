@@ -1,7 +1,7 @@
 # Wireshark Files
 
 ## Wireshark NMEA Dissector
-These files must be in the Wireshark plugins folder:
+These lua files and dissector zip must be in the Wireshark plugins folder on your computer:
 
 ```C:\Users\[User]\AppData\Roaming\Wireshark\plugins```
 
