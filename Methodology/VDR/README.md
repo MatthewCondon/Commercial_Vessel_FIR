@@ -1,10 +1,4 @@
 # VDR Analysis
-## Background
 The background information for the VDR can be found at [VDR Background](/Background/VDR).
 
-## Incident Response Actions
-When conducting Incident Response and Analysis, complete the following steps in the provided order:
-...
-
-## Anomalous Behavior
-Identifying anomalous behavior is difficult on the VDR...
+At this point, the YDVR-04N has the most complete analysis. Other models have had the manuals and software collected and have been provided in various templates.
