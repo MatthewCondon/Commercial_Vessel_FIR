@@ -17,3 +17,6 @@ When conducting Incident Response and Analysis, complete the following steps in 
     - Investigate specific PGN anomalies using the [PGN-Specific Scripts](/Methodology/NMEA/Anomalous_PGN_Scripts)
 - **Used in either case**
   - Analyze PCAP files for CAN traffic patterns on the NMEA backbone using [can2pcap](/Methodology/NMEA/PCAP_Analysis/can2pcap.py)
+
+## Notes
+The HMM Classifier Model was focused on experimenting with machine learning to assist the anomaly detection analysis. It is incomplete due to a lack of data and requires further training/development before deployment.
