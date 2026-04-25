@@ -10,3 +10,9 @@ Then, restart Wireshark or reload the lua files. In Wireshark, this can be compl
 Analyze > Reload Lua Plugins
 ```
 You can also do this using ```Ctrl + Shift + L```
+
+# After Configurations
+After installing the necessary scripts and files, enable all protocols on Wireshark. Go to:
+```
+Analyze > Enabled Protocols > Enable All
+```
