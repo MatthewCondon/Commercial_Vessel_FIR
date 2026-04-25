@@ -8,7 +8,9 @@ The VDR is mandated by the International Maritime Organization (IMO) through the
 - Vessels of 3,000 or more gross tonnage produced after 7/1/2002.
 
 # VDR Types
-Simplified vs Regular VDR specs
+There are two types of VDR:
+- Simplified: a scaled-down version of the VDR for use on smaller and older vessels. It only records core navigation data with limited capabilities. It may meet minimum compliance but lacks certain VDR features.
+- Regular: a full-featured system that records all critical data onboard the vessel. It can be found on most SOLAD-class vessels and records information in accordance with IMO regulations.
 
 # VDR Models
 There are many different models of the VDR. Some are pictured below:
