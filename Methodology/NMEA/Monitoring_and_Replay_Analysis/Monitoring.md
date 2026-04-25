@@ -31,4 +31,4 @@ candump -L can0 > file.log
 ```
 
 **Analzyer Format**
-See [Analyzer Summary](Methodology/NMEA/Conversion_Scripts/Analyzer.md)
+See [Analyzer Summary](/Methodology/NMEA/Conversion_Scripts/Analyzer.md)
