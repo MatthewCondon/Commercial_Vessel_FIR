@@ -14,9 +14,9 @@ Statistics > I/O Graphs > + (add a new graph)
 Now, complete the following steps:
 - Disable all other graphs and enable the new one.
 - Name the graph for the data filter you are analyzing.
-- Apply a filter for the data of interest. For example, course over ground use: **nmea-2000-127245.position**.
+- Apply a filter for the PGN of interest. For example, rudder use: **nmea-2000-127245**.
 - Update the style of the graph. Effective styles are **Line** and **Graph**.
-- In the Y Field, place a designated filter for what data you want to view. You may be able to use the same filter with a Y Axis of MAX to view values. Otherwise, select a Y Field of Packets to view frequency at which data is sent.
+- In the Y Field, place a designated filter for what data you want to view. You may be able to use the same filter with a Y Axis of MAX to view values. Otherwise, select a Y Field of Packets to view frequency at which data is sent. For example, for the rudder's heading values use: **nmea-2000-127245.position**
 - Select **Reset**.
 
 The interval is automatically set to 1 second. Adjust this as necessary depending on the send rate of the inspected data.
